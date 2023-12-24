@@ -1,4 +1,4 @@
-# Data Classes taugth in Graduate, Undergraduat and MBA Courses
+# Data Classes taugth in Graduate, Undergraduate and MBA Courses
 
 Each class cover an special topic in Data Science
 

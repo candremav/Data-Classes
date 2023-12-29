@@ -8,8 +8,8 @@ This dataset was created to predict whether a client will subscribe to a bank te
 2. **EDA**: Exploratory Data Analysis of key variables including mean, median, max and min, correlation and categorical data analysis.
 3. **Graphs**: Creating a range of visualizations to represent different aspects of client data, such as age, jobs, education, economic variables and the subscription to a bank term deposit.
 
-## Documents
+## Files
 
-1. **A2_BD3.1.ipynb:** Part I of the project, containing the notebook with EDA.
+1. **bank-marketing-part-i-eda-python:** Part I of the project, containing the notebook with EDA.
 2. **Dados3 Marketing.csv:** Database of banking marketing.
 3. **Dados3 Marketing.txt:** Description of database and key variables.

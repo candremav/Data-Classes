@@ -6,4 +6,4 @@ Each class cover an special topic in Data Science
 2. **Earthquakes:** Exploratory Data Analysis (EDA) in Python
 
 ## Disclaimer
-CSV files are not provided due to its size (larger than 100MB)
+CSV files not provided when its size is larger than 100MB.

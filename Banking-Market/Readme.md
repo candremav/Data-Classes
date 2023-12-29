@@ -10,6 +10,6 @@ This dataset was created to predict whether a client will subscribe to a bank te
 
 ## Documents
 
-**A2_BD3.1.ipynb:** Part I of the project, containing the notebook with EDA.
-**Dados3 Marketing.csv:** Database of banking marketing.
-**Dados3 Marketing.txt:** Description of database and key variables.
+1. **A2_BD3.1.ipynb:** Part I of the project, containing the notebook with EDA.
+2. **Dados3 Marketing.csv:** Database of banking marketing.
+3. **Dados3 Marketing.txt:** Description of database and key variables.
